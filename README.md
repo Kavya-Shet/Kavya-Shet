@@ -1,6 +1,6 @@
-👋 Hi I'm Kavya Shet, working as a MIS Associate - Data & Analytics @Global Delight Technologies, Udupi, Karnataka, INDIA.
+👋 Hi I'm Kavya Shet, working as a Senior Executive - Data & Analytics @Wipro Technologies, Pune, Maharashtra, INDIA.
 
-Overall I have 4+ years of experience in helping with their business requirements delivery through data acquisition, analysis, and driving insights through KPI reporting and driving business to a higher level.
+Overall I have 5+ years of experience in helping with their business requirements delivery through data acquisition, analysis, and driving insights through KPI reporting and driving business to a higher level.
 
 Having good knowledge of Excel, SQL, AWS, SNOWFLAKE, Matillion, Tableau & POWERBI.
 
